@@ -6,16 +6,16 @@ problem-solving. Seeking projects and opportunities to apply and enhance my prog
 ## Projects
 
 - **URL Shortening Website(https://github.com/berniceu/url-shortening-api):**
-  Developed a website that shortens URLs using an API. Coding languages used: HTML, CSS and Javascript.
-  Implemented a responsive design principles for seamless user experience across devices.
+  Developed a website that shortens URLs using an API. Coding languages used: HTML, CSS, and Javascript.
+  Implemented responsive design principles for seamless user experience across devices.
 
 - **Weather app(https://github.com/berniceu/weather-app):**
-  A weather website that displays asks users for location and provides weather information about the location.
-  Developed using HTML, CSS and JavasScript.
+  A weather website that asks users for location and provides weather information about the location.
+  It was developed using HTML, CSS, and JavaScript.
 
 ## Skills
 
-- **Programming Languages:** Pyhton, HTML, CSS, JavaScript
+- **Programming Languages:** Python, HTML, CSS, JavaScript
 - **Technologies:** BootStrap
 - **Tools:** Git, VS Code, PyCharm
 
