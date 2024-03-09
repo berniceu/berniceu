@@ -19,12 +19,4 @@ problem-solving. Seeking projects and opportunities to apply and enhance my prog
 - **Technologies:** BootStrap
 - **Tools:** Git, VS Code, PyCharm
 
-## Get in Touch
-
-- GitHub: github.com/berniceu
-- LinkedIn: www.linkedin.com/in/bernice-uwituze
-- Email: berniceuwituze@gmail.com
-
-Feel free to connect with me! I'm always open to new opportunities and collaborations.
-
 Happy coding! 🚀
